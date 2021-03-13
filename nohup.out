@@ -1,0 +1,9 @@
+Welcome to the Geth JavaScript console!
+
+instance: Geth/devnet/v1.8.7-stable-66432f38/linux-amd64/go1.10.1
+coinbase: 0xaef0c118708781e06718ec02369073d66225d572
+at block: 102547 (Wed, 24 Feb 2021 06:40:28 CST)
+ datadir: /opt/ets/geth/chain
+ modules: admin:1.0 debug:1.0 eth:1.0 miner:1.0 net:1.0 personal:1.0 rpc:1.0 txpool:1.0 web3:1.0
+
+> 
